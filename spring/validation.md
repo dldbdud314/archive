@@ -1,0 +1,1 @@
+- [Validation 어디까지 해봤니?](https://meetup.toast.com/posts/223)
