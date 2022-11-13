@@ -1,2 +1,2 @@
-- https://jojoldu.tistory.com/603
-- https://www.youtube.com/watch?v=dJ5C4qRqAgA
+- [계층형 아키텍처](https://jojoldu.tistory.com/603)
+- [우아한객체지향 by 우아한형제들 개발실장 조영호님](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
