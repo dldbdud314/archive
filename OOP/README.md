@@ -1,0 +1,3 @@
+- [우아한객체지향 by 우아한형제들 개발실장 조영호님](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
+- [생각하라, 객체지향처럼](https://techblog.woowahan.com/2502/)
+- [객체지향 프로그래밍의 5가지 설계 원칙, 실무 코드로 살펴보는 SOLID](https://mangkyu.tistory.com/194)
