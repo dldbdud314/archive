@@ -1,0 +1,1 @@
+- [테스트하기 좋은 코드 - 테스트하기 어려운 코드](https://jojoldu.tistory.com/674)
