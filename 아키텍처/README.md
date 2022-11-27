@@ -1,2 +1,2 @@
 - [계층형 아키텍처](https://jojoldu.tistory.com/603)
-- [DTO ](https://tecoble.techcourse.co.kr/post/2021-04-25-dto-layer-scope/)
+- [DTO의 사용 범위](https://tecoble.techcourse.co.kr/post/2021-04-25-dto-layer-scope/)
