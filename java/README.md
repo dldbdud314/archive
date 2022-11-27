@@ -1,0 +1,1 @@
+- [Enum 활용](https://techblog.woowahan.com/2527/)
