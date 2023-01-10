@@ -1,2 +1,2 @@
 - [Enum 활용](https://techblog.woowahan.com/2527/)
-- [JVM Stack&Heap](https://www.youtube.com/watch?v=UzaGOXKVhwU)
+- [무민의 JVM Stack & Heap](https://www.youtube.com/watch?v=UzaGOXKVhwU)
